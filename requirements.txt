@@ -1,4 +1,4 @@
-streamli
+streamlit
 streamlit-chat
 pandas
 sentence-transformers
